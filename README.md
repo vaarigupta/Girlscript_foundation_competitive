@@ -1,1 +1,1 @@
-# LeetCode_Girlscript
+# Girlscript Foundation Competitive Programming
